@@ -1,9 +1,11 @@
 # Blink Detection Project
 
 
-![blinking detection demo](https://github.com/user-attachments/assets/48b7d357-c237-48c8-b12a-9562f638fe7d)
-
 This project implements a real-time blink detection system using a webcam. The detection algorithm is based on calculating the Eye Aspect Ratio (EAR) using facial landmarks to identify when a blink occurs. The application uses `dlib` for facial landmark detection and `OpenCV` for video streaming.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/48b7d357-c237-48c8-b12a-9562f638fe7d" alt="blinking detection demo">
+</div>
 
 ## Features
 - Real-time detection of eye blinks with a live video feed.
