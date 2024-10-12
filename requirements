@@ -1,0 +1,13 @@
+
+### **requirements.txt**
+Here’s what the `requirements.txt` file should look like, specifying the necessary packages and Python version:
+
+```txt
+# Python version
+python==3.10
+
+# Required packages
+imutils==0.5.4
+opencv-python==4.10.0.84
+scipy==1.14.1
+dlib==19.24.6
